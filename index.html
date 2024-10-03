@@ -34,7 +34,7 @@
     }
 
     .redirecting {
-      animation: fadeIn 1s, redirectSlide 1s;
+      animation: fadeIn 0.5s, redirectSlide 0.5s;
     }
     img {
             max-width: 50%;
@@ -60,7 +60,7 @@
 
         setTimeout(() => {
           window.location.href = "https://sopefi.blogspot.com"; // Redirect to this URL when online
-        }, 100); // 0.1-second delay for animation
+        }, 50); // 0.1-second delay for animation
       } else {
         offlineMessage.style.display = 'block';
         redirectMessage.style.display = 'none';
