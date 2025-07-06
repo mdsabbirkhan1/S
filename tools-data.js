@@ -37,7 +37,7 @@ window.ToolsData = {
       description: 'Easy-to-use graphic design platform for creating social media graphics, presentations, posters, and other visual content.',
       icon: 'fas fa-paint-brush',
       iconUrl: './cdn/images/canva-icon.png',
-      link: 'https://canva.com',
+      link: 'tool.html',
       usageCount: 12890,
       tags: ['design', 'graphics', 'templates', 'social media']
     },
