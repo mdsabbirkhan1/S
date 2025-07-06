@@ -26,7 +26,7 @@ window.ToolsData = {
       description: 'Collaborative interface design tool with real-time collaboration features. Perfect for UI/UX design, prototyping, and design systems.',
       icon: 'fas fa-figma',
       iconUrl: './cdn/images/figma-icon.png',
-      link: 'https://figma.com',
+      link: 'tool.html',
       usageCount: 15420,
       tags: ['design', 'ui', 'ux', 'prototyping', 'collaboration']
     },
